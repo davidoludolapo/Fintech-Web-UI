@@ -20,6 +20,17 @@ const GlobalStyle = createGlobalStyle`
 
     body{
         background-color:var(--neutral-light);
+        color: white;
+        font-size: 1.2rem
+    }
+
+    p{
+        color: var(--lavender-secondary);
+    }
+
+    .secondary-heading{
+        font-size: 2.7rem;
+        color: var(--purple-primary);
     }
 
 `;

@@ -16,6 +16,9 @@ const HeaderContentStyled = styled.div`
     display: flex;
     align-items: center;
     padding-right: 4rem;
+    .white {
+        color: white;
+    }
 
     h1 {
       font-size: 4rem;
