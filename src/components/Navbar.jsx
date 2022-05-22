@@ -8,9 +8,9 @@ const Nav = styled.nav`
   justify-content: center;
   align-items: center;
   font-size: 1rem;
-  position: sticky;
+  /* position: sticky;
   top: 0;
-  z-index: 10;
+  z-index: 1; */
 `;
 
 export const NavbarContainer = styled.div`
